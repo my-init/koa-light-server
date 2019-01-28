@@ -1,0 +1,12 @@
+{
+  "name": "koa-light-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yo-boilerplate/koa-light-server.git",
+  "author": "dengzhongzhe <dengzhongzhe@mafengwo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1"
+  }
+}
